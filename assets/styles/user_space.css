@@ -1,0 +1,48 @@
+.user_space{
+    padding-top: 50px;
+}
+.img-user{
+    max-width: 370px;
+}
+.img-user img{
+    max-width: 150px;
+    width: 100%;
+    border-radius: 100px;
+    object-fit: cover;
+}
+.col-info{
+    margin-bottom: 27px;
+}
+.user_info p{
+    color: #626262;
+}
+.user_info h5{
+    font-size: 21px;
+}
+.btn-edit button{
+    border: 0.5px solid rgba(0, 0, 0, 0.22);
+    border-radius: 5px;
+}
+.number{
+    font-weight: 600;
+}
+.buttons_main{
+    padding-top: 70px;
+}
+.btn_view{
+    border: none;
+}
+.btn_view img{
+    width: 30px;
+}
+.view-1{
+    margin-right: 56px;
+}
+
+.posts_main{
+    padding-top: 40px;
+}
+.post{
+    max-width: 300px;
+    margin-bottom: 43px;
+}
